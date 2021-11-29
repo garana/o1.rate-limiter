@@ -1,0 +1,7 @@
+# Editor/IDE files
+.idea
+.sw?
+
+*.ts
+!*.d.ts
+tsconfig.json
